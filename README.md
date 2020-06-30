@@ -35,7 +35,7 @@ Asssembly will requre the use of a soldering iron, solder and some tape is recom
  2. Pull all diodes through the pcb holes, making sure the direction of the diode watches the image printed on the PCB. With the black mark in the direction towards the line. 
  3. Solder your diode legs and then cut the excess, leaving a little length for error. 
  4. Next solder in your switches. 
- 5. Solder in and/or socket your pro micro, you will at a minimum need the [spacers](https://i.ebayimg.com/images/g/YPwAAOSwV3JeY9c1/s-l1600.jpg) provided with most when ordered. 
+ 5. Solder in and/or socket your pro micro, you will at a minimum need the [headers](https://i.ebayimg.com/images/g/YPwAAOSwV3JeY9c1/s-l1600.jpg) provided with most when ordered. 
  6. Finish by adding key caps and screws, then move onto programming.
  
  <p align="center">
