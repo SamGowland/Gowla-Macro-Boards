@@ -35,13 +35,14 @@ Asssembly will requre the use of a soldering iron, solder and some tape is recom
  6. Finish by adding key caps and screws, then move onto programming.
  
  <p align="center">
-  <img src="/Images/comp.PNG" width="300">
+  <img src="/Images/comp.jpg" width="300">
 </p>
 
 ## Prebaked Profiles
 
  1. <a href='Hex Profiles/gowla_arrows_media.hex'> Arrows & Media keys </a><br>
- 2. <a href='Hex Profiles/gowla_arrows_media.hex'> Arrows & Media keys </a><br>
+ 2. <a href='Hex Profiles/gowla_arrows_media.hex'> Navigation & Media keys </a><br>
+  2. <a href='Hex Profiles/gowla_arrows_media.hex'> Gui and Control & Media keys </a><br>
 
 ## Simple Programming
 
