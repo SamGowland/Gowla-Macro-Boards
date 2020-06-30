@@ -51,7 +51,7 @@ Asssembly will requre the use of a soldering iron, solder and some tape is recom
  <i>Images for each of the profiles can be founh in the [images directory](https://github.com/SamGowland/Gowla-Macro-Board/tree/master/Images)</i>
  
  If you wish to add your template for other users to use, please create 
- [Issue Tracker](https://github.com/SamGowland/Gowla-Macro-Board/issues), prefixing the
+ [an issue](https://github.com/SamGowland/Gowla-Macro-Board/issues), prefixing the
 issue name with "Profile".
 
 ## Simple Programming
