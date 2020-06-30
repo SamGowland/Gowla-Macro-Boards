@@ -31,9 +31,7 @@ Requirement: uLearn web application is intended to be run on a web browser.
 
 ## Usage and EULA 
 
-This application was made and managed on Github. There are 6 members who have all contributed in some way or form,
-however, the complexity of the language was more difficult for some members to follow, so they have implemented design
-and usability features through HTML and CSS.
+Design and profiles are made freely available for personal usage only and no further commerical usage. By dowloading or using files within this repository users agree to not resell or redistrubute the designs or files. 
 
 ---
 
