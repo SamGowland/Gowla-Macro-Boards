@@ -14,7 +14,7 @@ To purchase a PCB for DIY assembly and to support this project please visit my [
 
 <b> Stock Status  : :x: </b>
 
-<i> Currently sold out, restock due 14/07/2020. Follow my [eBay profile](https://www.ebay.co.uk/usr/gowla.2014) or watch the listing for notification. </i>
+<i> Currently sold out, restock due 14/07/2020. Follow my [eBay profile](https://www.ebay.co.uk/usr/gowla.2014) and this repository for updates. </i>
 
 
 ## Required Parts
