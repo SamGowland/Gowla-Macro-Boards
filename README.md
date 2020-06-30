@@ -41,7 +41,7 @@ and usability features through HTML and CSS.
 
 To get help with issues you may encounter...
 
-Please report bugs (actually broken code, not usage questions) to the
-*Fuzzy-Systems-and-Networks/issue*
-[Issue Tracker](https://github.com/SamGowland/Fuzzy-Systems-and-Networks/issues), prefixing the
+Please report issues to the
+*Gowla-Macro-Board*
+[Issue Tracker](https://github.com/SamGowland/Gowla-Macro-Board/issues), prefixing the
 issue name with "gowla".
