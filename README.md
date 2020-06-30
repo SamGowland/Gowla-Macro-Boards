@@ -3,6 +3,10 @@
 
 Gowla Macro Board is a custom PCB design for use with a Pro Micro to build a DIY Reprogrammable Macro Board for use with a computer.
 
+## Purchase
+
+If your are interested in purchasing a PCB for DIY assembly please visit my [eBay Page](http://www.apache.org/licenses/LICENSE-2.0)
+
 
 ## Parts
 
