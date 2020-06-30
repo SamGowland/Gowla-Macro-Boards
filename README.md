@@ -41,7 +41,8 @@ Asssembly will requre the use of a soldering iron, solder and some tape is recom
 ## Prebaked Profiles
 
  1. <a href='Hex Profiles/gowla_arrows_media.hex'> Arrows & Media keys </a><br>
- 2. <a href='Hex Profiles/gowla_arrows_media.hex'> Arrows & Media keys </a><br>
+ 2. <a href='Hex Profiles/gowla_arrows_media.hex'> Navigation & Media keys </a><br>
+  2. <a href='Hex Profiles/gowla_arrows_media.hex'> Gui and Control & Media keys </a><br>
 
 ## Simple Programming
 
