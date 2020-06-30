@@ -80,7 +80,9 @@ Once selected you will need to make a couple of changes to the wiring and pin la
 <p align="center">
   <img src="/Images/avr.PNG" width="400">
 </p>
+
 6. Now you know your port, keep it selected and simply change the hex file to your desired file. 
+
 7. Reset the Pro Micro Again waiting for sound, once you hear confirmation press program and see what happens. If it does not work try and try again. You may have to tap the reset twice, waiting for confirmation sound before shorting.  
 <br/><br/>
 
