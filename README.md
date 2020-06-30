@@ -38,13 +38,13 @@ Once selected you will need to make a couple of changes to the wiring and pin la
 1. Change the diode direction to be Row to Column. Matching the Image below.  
 
 <p align="center">
-  <img src="/Images/wiring.PNG" width="300">
+  <img src="/Images/wiring.PNG" width="400">
 </p>
 
 2. Next, on the Pins tap change the pins to match the Pin specified in the image below. 
 
 <p align="center">
-  <img src="/Images/pins.PNG" width="300">
+  <img src="/Images/pins.PNG" width="400">
 </p>
 
 3. Input you macros, then select the flip button. You can now dowload the hex file by selecting the compile tab. 
@@ -54,7 +54,7 @@ Once selected you will need to make a couple of changes to the wiring and pin la
 5. Open Avrdude and select your options to match my settings shown below. You will have to change the com port. To find out short the pins of pro micro for gnd and rst using a screw driver or wire. Listen out for windows attached device sound, once you here the confirmation you will have around 7 seconds to find out the port. Simply select the drop down and assuming you have no other similar devices connected only one will show probably COM3 or simiar. 
 
 <p align="center">
-  <img src="/Images/avr.PNG" width="300">
+  <img src="/Images/avr.PNG" width="400">
 </p>
 
 6. Now you know your port, keep it selected and simply change the hex file to your desired file. 
