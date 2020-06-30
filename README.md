@@ -8,9 +8,13 @@ Gowla Macro Board is a custom PCB design for use with a Pro Micro to build a DIY
 To purchase a PCB for DIY assembly and to support this project please visit my [eBay Page](https://www.ebay.co.uk/itm/164268389351)
 
 
-## Parts
+## Required Parts
 
-The video demo for the application can be found @ https://youtu.be/CilP2MxQyHY
+- 1 x Pro Micro ATMEGA32U4 5V 16MHz.
+- 9 x 1N4148 Diodes.
+- 9 x Cherry PCB Mount Switches.
+- 9 x Key Caps.
+- Soldering and time. 
 
 
 ## Assembly
