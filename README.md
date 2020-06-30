@@ -14,7 +14,7 @@ To purchase a PCB for DIY assembly and to support this project please visit my [
 
 <b> Stock Status  : :x: </b>
 
-<i> Stock next due 14/07/2020 </i>
+<i> Currently sold out, restock due 14/07/2020 </i>
 
 
 ## Required Parts
