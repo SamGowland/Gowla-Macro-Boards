@@ -35,6 +35,8 @@ This application has been created through the a combination of HTML, CSS, PHP an
 
 Head to https://kbfirmware.com/ and either import the keyboard layout or more simply select Treasure Tacro pad type 9. 
 
+<b> Skip to step 4 if you want to use the prebaked profiles above and don't want to program. <b>
+
 Once selected you will need to make a couple of changes to the wiring and pin layout to match this PCB. 
 
 1. Change the diode direction to be Row to Column. Matching the Image below.  
