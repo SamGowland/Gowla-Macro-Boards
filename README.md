@@ -36,3 +36,12 @@ and usability features through HTML and CSS.
 ## Maintainers
 
 * [Samuel Gowland](https://github.com/SamGowland)
+
+## Getting Help
+
+To get help with issues you may encounter...
+
+Please report bugs (actually broken code, not usage questions) to the
+*Fuzzy-Systems-and-Networks/issue*
+[Issue Tracker](https://github.com/SamGowland/Fuzzy-Systems-and-Networks/issues), prefixing the
+issue name with "gowla".
