@@ -96,7 +96,7 @@ Design and profiles are made freely available for personal usage only and no fur
 
 ## Maintainers
 
-* [Samuel Gowland](https://github.com/SamGowland)
+* [Gowla](https://github.com/SamGowland)
 
 ## Getting Help
 
