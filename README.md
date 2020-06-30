@@ -48,7 +48,7 @@ Asssembly will requre the use of a soldering iron, solder and some tape is recom
  
  If you wish to add your template for other users to use, please create 
  [Issue Tracker](https://github.com/SamGowland/Gowla-Macro-Board/issues), prefixing the
-issue name with "profile".
+issue name with "Profile".
 
 ## Simple Programming
 
