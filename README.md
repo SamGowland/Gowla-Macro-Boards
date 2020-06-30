@@ -84,6 +84,7 @@ Once selected you will need to make a couple of changes to the wiring and pin la
 7. Reset the Pro Micro Again waiting for sound, once you hear confirmation press program and see what happens. If it does not work try and try again. You may have to tap the reset twice, waiting for confirmation sound before shorting.  
 
 
+
 For more advanced repgrommaing follow the [QMK tutorials](https://beta.docs.qmk.fm/tutorial)
 
 ---
