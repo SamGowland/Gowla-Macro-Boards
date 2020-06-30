@@ -56,7 +56,7 @@ issue name with "Profile".
 
 ## Simple Programming
 
-Head to https://kbfirmware.com/ and either import the keyboard layout or more simply select Treasure Tacro pad type 9. 
+Head to https://kbfirmware.com/ and either import the keyboard layout or more simply select Treasure Macropad Type-9. 
 
 <b> Skip to step 4 if you want to use the prebaked profiles above and don't want to program. </b>
 
