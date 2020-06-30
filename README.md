@@ -28,6 +28,8 @@ This application has been created through the a combination of HTML, CSS, PHP an
 
 ## Prebaked Profiles
 
+ 1. <a href='Hex Profiles/gowla_arrows_media.hex'> Arrows & Media keys </a><br>
+ 2. <a href='Hex Profiles/gowla_arrows_media.hex'> Arrows & Media keys </a><br>
 
 ## Simple Programming
 
