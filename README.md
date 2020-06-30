@@ -42,4 +42,4 @@ and usability features through HTML and CSS.
 Please report issues you encounter to the
 *Gowla-Macro-Board*
 [Issue Tracker](https://github.com/SamGowland/Gowla-Macro-Board/issues), prefixing the
-issue name with "gowla".
+issue name with "Macro".
