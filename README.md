@@ -39,9 +39,7 @@ and usability features through HTML and CSS.
 
 ## Getting Help
 
-To get help with issues you may encounter...
-
-Please report issues to the
+Please report issues you encounter to the
 *Gowla-Macro-Board*
 [Issue Tracker](https://github.com/SamGowland/Gowla-Macro-Board/issues), prefixing the
 issue name with "gowla".
