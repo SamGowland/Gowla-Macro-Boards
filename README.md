@@ -19,12 +19,20 @@ To purchase a PCB for DIY assembly and to support this project please visit my [
 - 9 x 1N4148 Diodes.
 - 9 x Cherry PCB Mount Switches.
 - 9 x Key Caps.
+- 8 x M2*6+3 Stand Off Spacers Male-to-Female
 - Soldering and time. 
 
 
 ## Assembly
 
-This application has been created through the a combination of HTML, CSS, PHP and SQL.
+Asssembly will requre the use of a soldering iron, solder and some tape is recommended hold components. The order of assembly is important for the complete 9 switches. 
+
+ 1. Start by folding the legs of your diodes, with aprox 3mm of space either side of the diode in wire. 
+ 2. Pull all diodes through the pcb holes, making sure the direction of the diode watches the image printed on the PCB. With the black mark in the direction towards the line. 
+ 3. Solder your diode legs and then cut the excess, leaving a little length for error. 
+ 4. Next solder in your switches. 
+ 5. Solder in and/or socket your pro micro, you will at a minimum need the [spacers](https://i.ebayimg.com/images/g/YPwAAOSwV3JeY9c1/s-l1600.jpg) provided with most when ordered. 
+ 6. Check your work and move onto programming.
 
 ## Prebaked Profiles
 
