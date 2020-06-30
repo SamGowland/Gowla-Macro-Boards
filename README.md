@@ -31,10 +31,7 @@ This application has been created through the a combination of HTML, CSS, PHP an
 
 ## Simple Programming
 
-Requirement: uLearn web application is intended to be run on a web browser.
-
-1. The application requires a login which can be created through the 'register' button.
-2. The register requires an 'email' and 'password' to be registered.
+For more advanced repgrommaing follow the [QMK tutorials](https://beta.docs.qmk.fm/tutorial)
 
 ---
 
