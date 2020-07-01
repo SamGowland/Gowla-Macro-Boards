@@ -72,7 +72,7 @@ Once selected you will need to make a couple of changes to the wiring and pin la
   <img src="/Images/pins.PNG" width="400">
 </p>
 
-3. Input you macros, use the flip button if when programmed your macros are in wrong order. You can now dowload the hex file by selecting the compile tab. 
+3. Input you macros, use the flip button if when programmed your keys are in wrong order. You can now dowload the hex file by selecting the compile tab. 
 
 4. Once you have your Hex file you can flash it to the pro micro, I recommend using [Avrdudness](https://blog.zakkemble.net/avrdudess-a-gui-for-avrdude). 
 
