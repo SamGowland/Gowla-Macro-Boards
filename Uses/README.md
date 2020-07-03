@@ -1,7 +1,7 @@
-# Gowla-Macro-Board - Usage
+# Gowla-Macro-Board - Use Cases
 ---
 
-Below is a list of additional uses for the macro board. For each usage, please read the included readme. 
+Below is a list of additional use cases for the macro board. For each usage, please read the included readme. 
 
 1. New usage. 
 
