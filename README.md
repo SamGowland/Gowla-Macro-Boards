@@ -44,9 +44,10 @@ Asssembly will requre the use of a soldering iron, solder and some tape is recom
 
 ## Prebaked Profiles
 
- 1. <a href='Hex Profiles/arrows_media.hex'> Arrows & Media </a><br>
- 2. <a href='Hex Profiles/functions_gui.hex'> Fuctions & Gui </a><br>
- 3. <a href='Hex Profiles/nav_media.hex'> Navigation and Media </a><br>
+ 1. <a href='Hex Profiles/gowla_default.hex'> Default </a><br>
+ 2. <a href='Hex Profiles/arrows_media.hex'> Arrows & Media </a><br>
+ 3. <a href='Hex Profiles/functions_gui.hex'> Fuctions & Gui </a><br>
+ 4. <a href='Hex Profiles/nav_media.hex'> Navigation and Media </a><br>
  
  <i>Images for each of the profiles can be found in the [images directory](https://github.com/SamGowland/Gowla-Macro-Board/tree/master/Images).</i>
  
