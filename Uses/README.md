@@ -8,7 +8,7 @@ Below is a list of additional use cases for the macro board. For each usage, ple
 
 ## Submit a Usage
 
-Submit a usage by creating a fork of the repository, then create a new folder in [Uses](https://github.com/SamGowland/Gowla-Macro-Board/blob/master/Uses) and populate this folder with your project. Your folder must contain a readme.md. Add your usage to list of the readme. Then create a pull request. 
+Submit a usage by cloning or creating a fork of the repository, then create a new folder in [Uses](https://github.com/SamGowland/Gowla-Macro-Board/blob/master/Uses) and populate this folder with your project. Your folder must contain a readme.md. Add your usage to list of the readme. Then create a pull request. 
 
 ---
 
