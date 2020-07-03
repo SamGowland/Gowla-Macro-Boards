@@ -90,7 +90,7 @@ For more advanced programming follow the [QMK tutorials](https://beta.docs.qmk.f
 
 ## Additional Use cases
 
-Find additonal and alternative use cases for the PCB within [images directory](https://github.com/SamGowland/Gowla-Macro-Board/tree/master/Uses)
+Find additonal and alternative use cases for the PCB within [Uses directory](https://github.com/SamGowland/Gowla-Macro-Board/tree/master/Uses).
 
 ---
 
