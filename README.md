@@ -88,6 +88,10 @@ Once selected you will need to make a couple of changes to the wiring and pin la
 
 For more advanced programming follow the [QMK tutorials](https://beta.docs.qmk.fm/tutorial).
 
+## Additional Use cases
+
+Find additonal and alternative use cases for the PCB within [images directory](https://github.com/SamGowland/Gowla-Macro-Board/tree/master/Uses)
+
 ---
 
 ## Usage and EULA 
