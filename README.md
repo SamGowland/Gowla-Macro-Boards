@@ -89,7 +89,7 @@ Once selected you will need to make a couple of changes to the wiring and pin la
 
 For more advanced programming follow the [QMK tutorials](https://beta.docs.qmk.fm/tutorial).
 
-The [default build](https://github.com/qmk/qmk_firmware/tree/master/keyboards/gowla) is also available for use through QMK toolbox and files availble ready to make modifications for more complex layouts. 
+The [default build](https://github.com/qmk/qmk_firmware/tree/master/keyboards/gowla) is also available for use through QMK toolbox and files available within the QMK Firmware repository. 
 
 ## Additional Use Cases
 
