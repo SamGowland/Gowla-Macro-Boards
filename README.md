@@ -94,7 +94,18 @@ The [default build](https://github.com/qmk/qmk_firmware/tree/master/keyboards/go
 
 ## Additional Use Cases
 
-Find additonal and alternative use cases for the PCB within [Uses directory](https://github.com/SamGowland/Gowla-Macro-Board/tree/master/Uses).
+Find additonal and alternative use cases for the PCB within the [Uses directory](https://github.com/SamGowland/Gowla-Macro-Board/tree/master/Uses), a nice example is [dan-r's](https://github.com/dan-r) IR Remote use case. 
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/SamGowland/Gowla-Macro-Board/blob/master/Uses/IR-Remote-Nano/front.jpg">
+    </td>
+    <td>
+      <img src="https://github.com/SamGowland/Gowla-Macro-Board/blob/master/Uses/IR-Remote-Nano/back.jpg">
+    </td>
+  </tr>
+</table>
 
 
 ## RGB Version in the works

@@ -3,7 +3,7 @@
 
 Below is a list of additional use cases for the macro board. For each usage, please read the included readme. 
 
-1. New usage. 
+1. [IR-Remote-Nano](IR-Remote-Nano)
 
 
 ## Submit a Usage
