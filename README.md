@@ -96,6 +96,15 @@ The [default build](https://github.com/qmk/qmk_firmware/tree/master/keyboards/go
 
 Find additonal and alternative use cases for the PCB within [Uses directory](https://github.com/SamGowland/Gowla-Macro-Board/tree/master/Uses).
 
+
+## RGB Version in the works
+
+Work has been started desiging an rgb version with top and underglow RGB LED lighting. An intergrated 32U4 is also being considered but may not be cost effective. 
+
+<p align="center">
+  <img src="/Images/grgb.PNG" width="300">
+</p>
+
 ---
 
 ## Usage and EULA 
