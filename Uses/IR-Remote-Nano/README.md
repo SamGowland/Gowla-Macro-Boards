@@ -9,12 +9,17 @@ I use it to control an iPod dock on my desk, as its nicer to use than the origin
 
 ## Images
 
-<p align="center">
-  <img src="front.jpg" width="300">
-  <br>
-  <img src="back.jpg" width="300">
-</p>
-
+<table>
+  <tr>
+    <td>
+      <img src="front.jpg">
+    </td>
+    <td>
+      <img src="back.jpg">
+    </td>
+  </tr>
+</table>
+  
 ## Code
 1. [Basic IR Control with IRMP](basicir.ino)
 
