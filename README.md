@@ -12,9 +12,7 @@ Gowla Macro Board is a PCB design for use with a Pro Micro and QMK to build a DI
 
 To purchase a PCB for DIY assembly and to support this project please visit my [eBay Page](https://www.ebay.co.uk/itm/164290094737).
 
-<b> Stock Status  : :x: </b>
-
-<i> Currently sold out, restock due 14/07/2020. Follow my [eBay profile](https://www.ebay.co.uk/usr/gowla.2014) and this repository for updates. </i>
+<b> Stock Status  : :t: </b>
 
 
 ## Required Parts
