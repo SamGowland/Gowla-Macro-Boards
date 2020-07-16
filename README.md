@@ -56,7 +56,7 @@ issue name with "Profile".
 
 ## Simple Programming
 
-You can build and compile new keyboard builds most simply by using the web configurator : https://config.qmk.fm/#/gowla/LAYOUT_ortho_3x3
+You can build and compile new keyboard layouts most simply by using the web configurator : https://config.qmk.fm/#/gowla/LAYOUT_ortho_3x3
 
 For more advanced programming follow the [QMK tutorials](https://beta.docs.qmk.fm/tutorial).
 
