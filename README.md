@@ -56,37 +56,7 @@ issue name with "Profile".
 
 ## Simple Programming
 
-https://config.qmk.fm/#/gowla/LAYOUT_ortho_3x3
-
-Head to https://kbfirmware.com/ and either import the keyboard layout or more simply select Treasure Macropad Type-9. 
-
-<b> Skip to step 4 if you want to use the prebaked profiles above and don't want to program. </b>
-
-Once selected you will need to make a couple of changes to the wiring and pin layout to match this PCB. 
-
-1. Change the diode direction to be Row to Column. Matching the Image below.  
-<p align="center">
-  <img src="/Images/wiring.PNG" width="400">
-</p> 
-
-2. Next, on the Pins tap change the pins to match the Pin specified in the image below. 
-<p align="center">
-  <img src="/Images/pins.PNG" width="400">
-</p>
-
-3. Input you macros, use the flip button if when programmed your keys are in wrong order. You can now dowload the hex file by selecting the compile tab. 
-
-4. Once you have your Hex file you can flash it to the pro micro, I recommend using [Avrdudness](https://blog.zakkemble.net/avrdudess-a-gui-for-avrdude). 
-
-5. Open Avrdude and select your options to match my settings shown below. You will have to change the com port. To find out short the pins of pro micro for gnd and rst using a screw driver or wire. Listen out for windows attached device sound, once you here the confirmation you will have around 7 seconds to find out the port. Simply select the drop down and assuming you have no other similar devices connected only one will show probably COM3 or simiar. 
-<p align="center">
-  <img src="/Images/avr.PNG" width="400">
-</p>
-
-6. Now you know your port, keep it selected and simply change the hex file to your desired file. 
-
-7. Reset the Pro Micro Again waiting for sound, once you hear confirmation press program and see what happens. If it does not work try and try again. You may have to tap the reset twice, waiting for confirmation sound before shorting.  
-<br/><br/>
+You can build and compile new keyboard builds most simply by using the web configurator : https://config.qmk.fm/#/gowla/LAYOUT_ortho_3x3
 
 For more advanced programming follow the [QMK tutorials](https://beta.docs.qmk.fm/tutorial).
 
