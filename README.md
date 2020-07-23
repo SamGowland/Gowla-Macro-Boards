@@ -38,7 +38,7 @@ Asssembly will require the use of a soldering iron, solder and some tape is reco
  7. Finish by adding key caps and screws, then move onto programming.
  
  <p align="center">
-  <img src="/Images/comp.jpg" width="300">
+  <img src="/Images/side.jpg" width="300">
 </p>
 
 ## Prebaked Profiles
