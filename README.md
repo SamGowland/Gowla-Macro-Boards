@@ -64,7 +64,7 @@ The [default build](https://github.com/qmk/qmk_firmware/tree/master/keyboards/go
 
 ## Additional Use Cases
 
-Find additional and alternative use cases for the PCB within the [Uses directory](https://github.com/SamGowland/Gowla-Macro-Board/tree/master/Uses), a nice example is [dan-r's](https://github.com/dan-r) IR Remote use case. 
+Find additional use cases for the PCB within the [Uses directory](https://github.com/SamGowland/Gowla-Macro-Board/tree/master/Uses), a nice example is [dan-r's](https://github.com/dan-r) IR Remote use case. 
 
 <table>
   <tr>
