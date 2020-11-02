@@ -86,6 +86,18 @@ Work has been started desiging an rgb version with top and underglow RGB LED lig
   <img src="/Images/grgb.PNG" width="300">
 </p>
 
+## Case in the works
+
+Currently I am working towards a low cost case design and intend it to look like the render below. The case will work with any updated PCB designs. So far I have designed and 3D printed these. But to improve surface finish and reduce print time the top plates will be laser cut. Top plates will be available in either black and white. 
+
+STL files are provided for the case design within this repository. However you will need some additonal M2 hardware and no assembly instructions are currently provided. 
+
+<b> Cases should be available to buy by the 1st of December. </b>
+
+<p align="center">
+  <img src="/Images/case_d2.PNG" width="300">
+</p>
+
 ---
 
 ## Usage and EULA 
