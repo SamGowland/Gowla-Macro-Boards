@@ -92,7 +92,7 @@ Currently I am working towards a low cost case design and intend it to look like
 
 STL files are provided for the case design within this repository. However you will need some additonal M2 hardware and no assembly instructions are currently provided. 
 
-<b> Cases should be available to buy by the 1st of December. </b>
+<b> Cases should be available to buy from the 1st of December. </b>
 
 <p align="center">
   <img src="/Images/case_d2.PNG" width="300">
