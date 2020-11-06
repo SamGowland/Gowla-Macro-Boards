@@ -25,7 +25,7 @@ To purchase a PCB for DIY assembly and to support this project please visit my [
 
 ## Assembly
 
-Asssembly will require the use of a soldering iron, solder and some tape is recommended for holding components. The order of assembly is important for the complete 9 switches. 
+Asssembly will require the use of a soldering iron, solder and some tape is recommended for holding components. The <b> order of assembly is important </b> for the complete 9 switches. 
 
  1. Start by folding the legs of your diodes, with aprox 3mm of space either side of the diode in wire. 
  
