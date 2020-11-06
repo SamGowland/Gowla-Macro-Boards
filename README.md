@@ -66,6 +66,8 @@ The [default build](https://github.com/qmk/qmk_firmware/tree/master/keyboards/go
 
 Find additional use cases for the PCB within the [Uses directory](https://github.com/SamGowland/Gowla-Macro-Board/tree/master/Uses), a nice example is [dan-r's](https://github.com/dan-r) IR Remote use case. 
 
+<b> Please note in the image a user has hacked a nano into the PCB, pro micros do not go this way around. USB must points towards outside.  </b>
+
 <table>
   <tr>
     <td>
