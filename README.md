@@ -22,12 +22,10 @@ To purchase a PCB for DIY assembly and to support this project please visit my [
 - 9 x PCB or Plate Mount Switches (Cherry MX or Clones).
 - 9 x Key Caps.
 - 8 x M2*6+3 Stand Off Spacers Male-to-Female
-- Soldering and time. 
-
 
 ## Assembly
 
-Asssembly will require the use of a soldering iron, solder and some tape is recommended for hold components. The order of assembly is important for the complete 9 switches. 
+Asssembly will require the use of a soldering iron, solder and some tape is recommended for holding components. The order of assembly is important for the complete 9 switches. 
 
  1. Start by folding the legs of your diodes, with aprox 3mm of space either side of the diode in wire. 
  2. Pull all diodes through the pcb holes, making sure the direction of the diode matches the image printed on the PCB. With the black mark in the direction towards the line. 
@@ -60,11 +58,24 @@ You can build and compile new keyboard layouts most simply by using the web conf
 
 For more advanced programming follow the [QMK tutorials](https://beta.docs.qmk.fm/tutorial).
 
-The [default build](https://github.com/qmk/qmk_firmware/tree/master/keyboards/gowla) is also available for use through QMK toolbox and files available within the QMK Firmware repository. 
+The [default build](https://github.com/qmk/qmk_firmware/tree/master/keyboards/gowla) is also available for use through QMK toolbox and files available within the QMK Firmware repository. b
+
+## Flashing a Pro Micro
+
+To flash a pro micro with your newly built or prebaked firmware you must get it into DFU mode, short the reset and ground pins. Shorting once will put into DFU for 750ms, you can use QMK toolbox to dectect DFU and automatically flash once detected. 
+
+Double resets, to keep the pro micro in DFU mode for longer short reset and ground twice quickly. This will keep it in DFU mode upto 8 seconds allowing you to manually flash the pro micro with QMK toolbox or AVRdudess GUI. 
+
+You can use either of the following software to flash your pro micro. 
+- [QMK toolbox](https://github.com/qmk/qmk_toolbox/releases).
+- [AVRdudess](https://blog.zakkemble.net/avrdudess-a-gui-for-avrdude/).
+
 
 ## Additional Use Cases
 
 Find additional use cases for the PCB within the [Uses directory](https://github.com/SamGowland/Gowla-Macro-Board/tree/master/Uses), a nice example is [dan-r's](https://github.com/dan-r) IR Remote use case. 
+
+<b> Please note in the image a user has hacked a nano into the PCB, pro micros do not go this way around and USB must points towards outside.  </b>
 
 <table>
   <tr>
@@ -92,7 +103,7 @@ Currently I am working towards a low cost case design and intend it to look like
 
 STL files are provided for the case design within this repository. However you will need some additonal M2 hardware and no assembly instructions are currently provided. 
 
-<b> Cases should be available to buy by the 1st of December. </b>
+<b> Cases should be available to buy from the 1st of December. </b>
 
 <p align="center">
   <img src="/Images/case_d2.PNG" width="300">
