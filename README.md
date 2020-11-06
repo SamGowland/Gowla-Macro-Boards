@@ -43,13 +43,15 @@ Asssembly will require the use of a soldering iron, solder and some tape is reco
  
  6. Once the Pro Micro is in, continue to solder your remaining switches. 
  
- 7. Finish by adding key caps and screws, then move onto programming.
+ 7. Finish by adding key caps and screws, then move onto programming or flashing the firmware.
  
  <p align="center">
   <img src="/Images/side.jpg" width="300">
 </p>
 
-## Prebaked Profiles
+---
+
+## Prebaked Firmware Profiles
 
  1. <a href='Hex Profiles/gowla_default.hex'> Default </a><br>
  2. <a href='Hex Profiles/arrows_media.hex'> Arrows & Media </a><br>
