@@ -68,9 +68,10 @@ To flash a pro micro with you built or prebaked firmware you must get it into DF
 
 Double resets, to keep the Pro Micro in DFU mode for longer short reset and ground twice quickly. This will keep it in DFU mode upto 8 seconds allowing you to manually flash the pro micro with QMK toolbox or AVRdudess GUI. 
 
-https://github.com/qmk/qmk_toolbox/releases
+You can use either of the following software to flash your pro micro. 
+- [QMK toolbox](https://github.com/qmk/qmk_toolbox/releases).
+- [AVRdudess](https://blog.zakkemble.net/avrdudess-a-gui-for-avrdude/).
 
-https://blog.zakkemble.net/avrdudess-a-gui-for-avrdude/
 
 ## Additional Use Cases
 
