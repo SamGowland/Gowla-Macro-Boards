@@ -35,7 +35,7 @@ Asssembly will require the use of a soldering iron, solder and some tape is reco
  
  4. Next solder in your top 3 switches. 
  
- 5. Then solder in and/or socket your pro micro, you will at a minimum need the [headers](https://i.ebayimg.com/images/g/YPwAAOSwV3JeY9c1/s-l1600.jpg) provided with most when ordered. Making sure the pro micro is pointed outwards in this direction and on the underside of the PCB. 
+ 5. Then solder in and/or socket your pro micro, you will at a minimum need the [headers](https://i.ebayimg.com/images/g/YPwAAOSwV3JeY9c1/s-l1600.jpg) provided with most when ordered. Making sure the pro micro usb is pointing outwards away from PCB and on the underside of the PCB. 
  
  <p align="center">
   <img src="/Images/direction.JPG" width="300">
