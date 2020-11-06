@@ -22,7 +22,7 @@ To purchase a PCB for DIY assembly and to support this project please visit my [
 - 9 x PCB or Plate Mount Switches (Cherry MX or Clones).
 - 9 x Key Caps.
 - 8 x M2*6+3 Stand Off Spacers Male-to-Female
-- Soldering and time. 
+- Solder, Iron and Some Time
 
 
 ## Assembly
