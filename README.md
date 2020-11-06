@@ -50,6 +50,13 @@ Asssembly will require the use of a soldering iron, solder and some tape is reco
 </p>
 
 ---
+## Simple Programming
+
+You can build and compile new keyboard layouts most simply by using the web configurator : https://config.qmk.fm/#/gowla/LAYOUT_ortho_3x3
+
+For more advanced programming follow the [QMK tutorials](https://beta.docs.qmk.fm/tutorial).
+
+The [default build](https://github.com/qmk/qmk_firmware/tree/master/keyboards/gowla) is also available for use through QMK toolbox and files available within the QMK Firmware repository.
 
 ## Prebaked Firmware Profiles
 
@@ -64,14 +71,6 @@ Asssembly will require the use of a soldering iron, solder and some tape is reco
  [an issue](https://github.com/SamGowland/Gowla-Macro-Board/issues), prefixing the
 issue name with "Profile".
 
-## Simple Programming
-
-You can build and compile new keyboard layouts most simply by using the web configurator : https://config.qmk.fm/#/gowla/LAYOUT_ortho_3x3
-
-For more advanced programming follow the [QMK tutorials](https://beta.docs.qmk.fm/tutorial).
-
-The [default build](https://github.com/qmk/qmk_firmware/tree/master/keyboards/gowla) is also available for use through QMK toolbox and files available within the QMK Firmware repository.
-
 ## Flashing a Pro Micro
 
 To flash a pro micro with your newly built or prebaked firmware you must get it into DFU mode, short the reset and ground pins. Shorting once will put into DFU for 750ms, you can use QMK toolbox to dectect DFU and automatically flash once detected. 
@@ -82,6 +81,7 @@ You can use either of the following software to flash your pro micro.
 - [QMK toolbox](https://github.com/qmk/qmk_toolbox/releases).
 - [AVRdudess](https://blog.zakkemble.net/avrdudess-a-gui-for-avrdude/).
 
+---
 
 ## RGB Version in the works
 
