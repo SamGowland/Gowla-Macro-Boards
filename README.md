@@ -70,7 +70,7 @@ You can build and compile new keyboard layouts most simply by using the web conf
 
 For more advanced programming follow the [QMK tutorials](https://beta.docs.qmk.fm/tutorial).
 
-The [default build](https://github.com/qmk/qmk_firmware/tree/master/keyboards/gowla) is also available for use through QMK toolbox and files available within the QMK Firmware repository. b
+The [default build](https://github.com/qmk/qmk_firmware/tree/master/keyboards/gowla) is also available for use through QMK toolbox and files available within the QMK Firmware repository.
 
 ## Flashing a Pro Micro
 
