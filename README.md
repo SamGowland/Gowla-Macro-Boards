@@ -60,7 +60,13 @@ You can build and compile new keyboard layouts most simply by using the web conf
 
 For more advanced programming follow the [QMK tutorials](https://beta.docs.qmk.fm/tutorial).
 
-The [default build](https://github.com/qmk/qmk_firmware/tree/master/keyboards/gowla) is also available for use through QMK toolbox and files available within the QMK Firmware repository. 
+The [default build](https://github.com/qmk/qmk_firmware/tree/master/keyboards/gowla) is also available for use through QMK toolbox and files available within the QMK Firmware repository. b
+
+## Flashing a Pro Micro
+
+To flash a pro micro you must get it into DFU mode, short the reset and ground pins. Shorting once will put into DFU for 750ms, you can use QMK toolbox to dectect DFU and automatically flash once detected. 
+
+Double resets, to keep the Pro Micro in DFU mode for longer short reset and ground twice quickly. This will keep it in DFU mode upto 8 seconds allowing you to manually flash the pro micro with QMK toolbox or AVRdudess GUI. 
 
 ## Additional Use Cases
 
