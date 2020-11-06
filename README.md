@@ -27,7 +27,7 @@ To purchase a PCB for DIY assembly and to support this project please visit my [
 
 Asssembly will require the use of a soldering iron, solder and some tape is recommended for holding components. The <b> order of assembly is important </b> for the complete 9 switches. 
 
- 1. Start by folding the legs of your diodes, with aprox 3mm of space either side of the diode in wire. 
+ 1. Start by folding the legs of your diodes, with approx 3mm of space either side of the diode in wire. 
  
  2. Pull all diodes through the pcb holes, making sure the direction of the diode matches the image printed on the PCB. With the black mark in the direction towards the line. 
  
