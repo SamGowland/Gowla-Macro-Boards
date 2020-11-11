@@ -23,7 +23,7 @@ To purchase a PCB for DIY assembly and to support this project please visit my [
 - 9 x Key Caps.
 - 8 x *<i>M2, 6mm (min) to 10mm (max) body length + 3mm thread Stand Off Spacers Male-to-Female<i>
   
-  > Please note you can swap and mix the M2 Stand Off Spacers for a range of different hardware options. At a minimum you will need your PCB 6mm off the ground, though for the best compatibility I would recommend 8mm. Brass and nylon are hardware available, brass is the better material but could scratch your desk. 
+  > Please note there's a variety of different hardware options. At a minimum you will need your PCB 6mm off the ground, though for the best compatibility I would recommend 8mm. Brass and nylon are hardware available, brass is the better material but could scratch your desk. 
 
 ## Assembly
 
