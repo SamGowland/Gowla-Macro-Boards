@@ -109,7 +109,7 @@ STL files are provided for the case design within this repository. However you w
 
 ## Usage and EULA 
 
-Design and profiles are made freely available for personal usage only and no further commerical usage. By dowloading or using files within this repository users agree to not resell or redistrubute the designs or files. 
+Design and profiles are made freely available for personal usage only and no further commercial usage. By downloading or using files within this repository users agree to not resell or redistribute the designs or files. 
 
 ## Additional Use Cases
 
