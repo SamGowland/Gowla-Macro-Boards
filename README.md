@@ -117,19 +117,6 @@ Design and profiles are made freely available for personal usage only and no fur
 
 Find additional use cases for the PCB within the [Uses directory](https://github.com/SamGowland/Gowla-Macro-Board/tree/master/Uses), a nice example is [dan-r's](https://github.com/dan-r) IR Remote use case. 
 
-<b> Please note in the image a user has hacked a nano into the PCB, pro micros do not go this way around and USB must points towards outside.  </b>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/SamGowland/Gowla-Macro-Board/blob/master/Uses/IR-Remote-Nano/front.jpg">
-    </td>
-    <td>
-      <img src="https://github.com/SamGowland/Gowla-Macro-Board/blob/master/Uses/IR-Remote-Nano/back.jpg">
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## Maintainers
