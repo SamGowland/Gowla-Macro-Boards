@@ -87,11 +87,12 @@ You can use either of the following software to flash your pro micro.
 
 ## RGB Version in the works
 
-Work has been started desiging an rgb versions of PCBs. One with a focus to make some RGB lighting as easy as possible (eRGB) and another being no compromise. An intergrated 32U4 is also being considered but may not be cost effective. 
+Work has been started desiging RGB versions of PCBs. One with a focus to make some RGB lighting as easy as possible (eRGB) and another being no compromise. An intergrated 32U4 is also being considered but may not be cost effective. 
 
 <p align="center">
-  <img src="/Images/RGB2.jpg" height="300">
-  <img src="/Images/RGB1.jpg" height="300">
+  <img src="/Images/RGB2.jpg" height="200">
+  <img src="/Images/RGB1.jpg" height="200">
+  <img src="/Images/eRGB front.PNG" height="200">
 </p>
 
 ## Case in the works
@@ -115,19 +116,6 @@ Design and profiles are made freely available for personal usage only and no fur
 ## Additional Use Cases
 
 Find additional use cases for the PCB within the [Uses directory](https://github.com/SamGowland/Gowla-Macro-Board/tree/master/Uses), a nice example is [dan-r's](https://github.com/dan-r) IR Remote use case. 
-
-<b> Please note in the image a user has hacked a nano into the PCB, pro micros do not go this way around and USB must points towards outside.  </b>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github.com/SamGowland/Gowla-Macro-Board/blob/master/Uses/IR-Remote-Nano/front.jpg">
-    </td>
-    <td>
-      <img src="https://github.com/SamGowland/Gowla-Macro-Board/blob/master/Uses/IR-Remote-Nano/back.jpg">
-    </td>
-  </tr>
-</table>
 
 ---
 
