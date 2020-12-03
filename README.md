@@ -87,7 +87,7 @@ You can use either of the following software to flash your pro micro.
 
 ## RGB Version in the works
 
-Work has been started desiging an rgb versions of PCBs. One with a focus to make some RGB lighting as easy as possible (eRGB) and another being no compromise. An intergrated 32U4 is also being considered but may not be cost effective. 
+Work has been started desiging RGB versions of PCBs. One with a focus to make some RGB lighting as easy as possible (eRGB) and another being no compromise. An intergrated 32U4 is also being considered but may not be cost effective. 
 
 <p align="center">
   <img src="/Images/RGB2.jpg" height="200">
