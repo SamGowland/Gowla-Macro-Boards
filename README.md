@@ -90,7 +90,7 @@ You can use either of the following software to flash your pro micro.
 Work has been started desiging an rgb version with top and underglow RGB LED lighting. An intergrated 32U4 is also being considered but may not be cost effective. 
 
 <p align="center">
-  <img src="/Images/grgb.PNG" width="300">
+  <img src="/Images/RGB2.jpg" width="300">
 </p>
 
 ## Case in the works
