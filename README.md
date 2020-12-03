@@ -85,6 +85,18 @@ You can use either of the following software to flash your pro micro.
 
 ---
 
+## Top Plates
+
+To further improve aesthetics an additional top plate is available to buy, top plates only come in gloss white from now on. Matte blacks were experimented with but scratch too easily. <b> These are available to buy now </b> at the new multi variation ebay listing, along with new white PCBs:  [eBay Page](http://www.ebay.co.uk/itm/164521787563)
+
+If getting a top plate you will require additional M2 hardware, which I hope to include in the future. But for now you will need purchase 2mm spacers between the plate and the PCB. 8mm spacers and 8mm M2 machine screws. 
+
+<p align="center">
+  <img src="/Images/top plate.jpg" height="300">
+</p>
+
+
+
 ## RGB Version in the works
 
 Work has been started desiging RGB versions of PCBs. One with a focus to make some RGB lighting as easy as possible (eRGB) and another being no compromise. An intergrated 32U4 is also being considered but may not be cost effective. 
@@ -104,7 +116,7 @@ STL files are provided for the case design within this repository. However you w
 <b> Cases should be available to buy from the 1st of December. </b>
 
 <p align="center">
-  <img src="/Images/case_d2.PNG" width="300">
+  <img src="/Images/case_d2.PNG" height="300">
 </p>
 
 ---
