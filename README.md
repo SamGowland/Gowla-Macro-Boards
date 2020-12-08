@@ -91,7 +91,7 @@ You can use either of the following software to flash your pro micro.
 
 To further improve aesthetics an additional top plate is available to buy, top plates only come in gloss white from now on. Matte blacks were experimented with but scratch too easily. <b> These are available to buy now </b> at the new multi variation ebay listing, along with new white PCBs:  [eBay Page](http://www.ebay.co.uk/itm/164521787563)
 
-If getting a top plate you will require additional M2 hardware, which I hope to include in the future. But for now you will need purchase 3mm spacers between the plate and the PCB. 8mm spacers and 8mm M2 machine screws. 
+If getting a top plate you will require additional M2 hardware, which I hope to include in the future. But for now you will need to purchase 3mm spacers between the plate and the PCB. 8mm spacers and 8mm M2 machine screws. 
 
 <p align="center">
   <img src="/Images/top plate.jpg" height="300">
