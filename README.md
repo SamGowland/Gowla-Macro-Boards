@@ -122,16 +122,6 @@ STL files are provided for the case design within this repository. However you w
 
 ---
 
-## Usage and EULA 
-
-Design and profiles are made freely available for personal usage only and no further commercial usage. By downloading or using files within this repository users agree to not resell or redistribute the designs or files. 
-
-## Additional Use Cases
-
-Find additional use cases for the PCB within the [Uses directory](https://github.com/SamGowland/Gowla-Macro-Board/tree/master/Uses), a nice example is [dan-r's](https://github.com/dan-r) IR Remote use case. 
-
----
-
 # Gowla-Macro-eRGB
 
 Designed to make RGB lighting as easy as possible and add support for an optional rotary encoder (Alps EC11)
@@ -151,6 +141,16 @@ Early Prototypes on sale now through the [Variations eBay Page](http://www.ebay.
 coming soon. 
 
  ---
+ 
+ ## Usage and EULA 
+
+Design and profiles are made freely available for personal usage only and no further commercial usage. By downloading or using files within this repository users agree to not resell or redistribute the designs or files. 
+
+## Additional Use Cases
+
+Find additional use cases for the PCB within the [Uses directory](https://github.com/SamGowland/Gowla-Macro-Board/tree/master/Uses), a nice example is [dan-r's](https://github.com/dan-r) IR Remote use case. 
+
+---
 
 ## Maintainers
 
