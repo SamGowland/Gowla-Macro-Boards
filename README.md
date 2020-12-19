@@ -1,7 +1,13 @@
-# Gowla-Macro-Board - Version 1
+# Gowla-Macro-Boards 
+
+ - [Gowla Macro Board V1](#Gowla-Macro-Board-V1)
+ - [Gowla-Macro-eRGB](#Gowla-Macro-eRGB)
+ - [MEK-Light-RGB](#MEK-Light-RGB)
+
+# Gowla-Macro-Board-V1
 ---
 
-Gowla Macro Board is a PCB design for use with a Pro Micro and QMK to build a DIY Reprogrammable Macro Board for use with a computer. This is it's first version and I hope to produce feature updates or perhaps new designs. 
+Standard Version PCB is where this project all started and is available to buy, it's fully supported in QMK and super simple to put together! Great for practicing your soldering skills and getting started into mechanical keyboards. 
 
 <p align="center">
   <img src="/Images/render.PNG" width="300">
@@ -132,6 +138,14 @@ Design and profiles are made freely available for personal usage only and no fur
 Find additional use cases for the PCB within the [Uses directory](https://github.com/SamGowland/Gowla-Macro-Board/tree/master/Uses), a nice example is [dan-r's](https://github.com/dan-r) IR Remote use case. 
 
 ---
+
+# Gowla-Macro-eRGB
+
+Early Prototypes on sale now through the variation listing. 
+
+# MEK-Light-RGB
+
+coming soon. 
 
 ## Maintainers
 
