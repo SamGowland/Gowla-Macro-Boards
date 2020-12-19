@@ -105,17 +105,6 @@ If getting a top plate you will require additional M2 hardware, which I hope to 
 </p>
 
 
-
-## RGB Version in the works
-
-Work has been started desiging RGB versions of PCBs. One with a focus to make some RGB lighting as easy as possible (eRGB) and another being no compromise. An intergrated 32U4 is also being considered but may not be cost effective. 
-
-<p align="center">
-  <img src="/Images/RGB2.jpg" height="200">
-  <img src="/Images/RGB1.jpg" height="200">
-  <img src="/Images/eRGB front.PNG" height="200">
-</p>
-
 ## Case in the works
 
 Currently I am working towards a low cost case design and intend it to look like the render below. The case will work with any updated PCB designs. So far I have designed and 3D printed these. But to improve surface finish and reduce print time the top plates will be laser cut. Top plates will be available in either black and white. 
@@ -142,7 +131,15 @@ Find additional use cases for the PCB within the [Uses directory](https://github
 
 # Gowla-Macro-eRGB
 
-Early Prototypes on sale now through the variation listing. 
+Designed to make RGB lighting as easy as possible and add support for an optional rotary encoder (Alps EC11)
+
+Early Prototypes on sale now through the [Variations eBay Page](http://www.ebay.co.uk/itm/164521787563)
+
+<p align="center">
+  <img src="/Images/RGB2.jpg" height="200">
+  <img src="/Images/RGB1.jpg" height="200">
+  <img src="/Images/eRGB front.PNG" height="200">
+</p>
 
 # MEK-Light-RGB
 
