@@ -144,9 +144,13 @@ Early Prototypes on sale now through the [Variations eBay Page](http://www.ebay.
   <img src="/Images/eRGB front.PNG" height="200">
 </p>
 
+ ---
+
 # MEK-Light-RGB
 
 coming soon. 
+
+ ---
 
 ## Maintainers
 
