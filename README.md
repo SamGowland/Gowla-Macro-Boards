@@ -129,9 +129,8 @@ Designed to make RGB lighting as easy as possible and add support for an optiona
 Early Prototypes on sale now through the [Variations eBay Page](http://www.ebay.co.uk/itm/164521787563)
 
 <p align="center">
-  <img src="/Images/RGB2.jpg" height="200">
-  <img src="/Images/RGB1.jpg" height="200">
-  <img src="/Images/eRGB front.PNG" height="200">
+  <img src="/Images/eRGB.jpg" height="300">
+  <img src="/Images/eRGB front.PNG" height="300">
 </p>
 
  ---
@@ -140,7 +139,10 @@ Early Prototypes on sale now through the [Variations eBay Page](http://www.ebay.
 
 coming soon. 
 
-<img src="/Images/mek-l.PNG" height="400">
+<p align="center">
+  <img src="/Images/mek-l.PNG" height="400">
+</p>
+
 
  ---
  
