@@ -1,8 +1,11 @@
 # Gowla-Macro-Boards 
 
  - [Gowla Macro Board V1](#Gowla-Macro-Board-V1)
+   - 9 Key Macro board for MX style switches.
  - [Gowla-Macro-eRGB](#Gowla-Macro-eRGB)
+   - 9 Key Macro Board with easy underglow RGB and Rotary Encoder support.
  - [MEK-Light-RGB](#MEK-Light-RGB)
+   - 12 key editing keyboard with OLED screen, fader, two rotary encoders and underglow lighting. 
  
  ---
 
