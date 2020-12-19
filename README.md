@@ -3,9 +3,10 @@
  - [Gowla Macro Board V1](#Gowla-Macro-Board-V1)
  - [Gowla-Macro-eRGB](#Gowla-Macro-eRGB)
  - [MEK-Light-RGB](#MEK-Light-RGB)
+ 
+ ---
 
 # Gowla-Macro-Board-V1
----
 
 Version 1 PCB is where this project all started and is available to buy, it's fully supported in QMK and super simple to put together! Great for practicing your soldering skills and getting started into mechanical keyboards. 
 
