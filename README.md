@@ -1,11 +1,13 @@
 # Gowla-Macro-Boards 
 
- - [Gowla Macro Board V1](#Gowla-Macro-Board-V1)
+ - [Gowla Macro Board V1](#Gowla-Macro-Board-V1) <b> :heavy_check_mark: </b>
    - 9 Key Macro board for MX style switches.
- - [Gowla-Macro-eRGB](#Gowla-Macro-eRGB)
+ - [Gowla-Macro-eRGB](#Gowla-Macro-eRGB) <b> :heavy_check_mark: </b>
    - 9 Key Macro Board with easy underglow RGB and Rotary Encoder support.
- - [MEK-Light-RGB](#MEK-Light-RGB)
+ - [MEK-Light-RGB](#MEK-Light-RGB) <b>:x:</b>
    - 12 Key editing keyboard with OLED screen, fader, two rotary encoders and underglow lighting. 
+   
+<b> :heavy_check_mark: Available</b> <b>:x: Not Available</b>
  
  ---
 
@@ -23,8 +25,6 @@ Version 1 PCB is where this project all started and is available to buy, it's fu
 To purchase a PCB for DIY assembly and to support this project please visit my [eBay Page](https://www.ebay.co.uk/itm/164290094737).
 
 For additional options such as plates, hardware, RGB and more visit the <b>new!</b> multi variation page : [Variations eBay Page](http://www.ebay.co.uk/itm/164521787563)
-
-<b> Stock Status  :heavy_check_mark: </b>
 
 
 ## Required Parts
