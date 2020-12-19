@@ -7,7 +7,7 @@
 # Gowla-Macro-Board-V1
 ---
 
-Standard Version PCB is where this project all started and is available to buy, it's fully supported in QMK and super simple to put together! Great for practicing your soldering skills and getting started into mechanical keyboards. 
+Version 1 PCB is where this project all started and is available to buy, it's fully supported in QMK and super simple to put together! Great for practicing your soldering skills and getting started into mechanical keyboards. 
 
 <p align="center">
   <img src="/Images/render.PNG" width="300">
