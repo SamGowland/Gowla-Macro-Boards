@@ -29,7 +29,7 @@ For additional options such as plates, hardware, RGB and more visit the <b>new!<
 
 ## Required Parts
 
-- 1 x Pro Micro ATMEGA32U4 5V 16MHz (Micro USB).
+- 1 x Pro Micro ATMEGA32U4 5V 16MHz (Micro USB) - Sparkfun or Clone Size
 - 9 x 1N4148 Diodes.
 - 9 x PCB or Plate Mount Switches (Cherry MX or Clones).
 - 9 x Key Caps.
