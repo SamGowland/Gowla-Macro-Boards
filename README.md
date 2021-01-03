@@ -138,7 +138,7 @@ When building take your time, and keep in mind not to block anything off before 
 
 - Start by soldering all your diodes into place. 
 - Solder the pin headers for your pro micro but not the pro micro it's self yet. 
-- Connect the plate to the PCB with 3mm spacers between the PCB and Top Plate or push switches through plate first. 
+- Connect the plate to the PCB with 3mm spacers using the 8mm M2 scerws between the PCB and Top Plate or push switches through plate first. 
 - Push your switches into plate and through the PCB, soldering down all your switches or 8 if your doing bottom left as rotary encoder. 
 - Solder the Pro micro to the pin headers. 
 - Solder RGB LEDs and rotary encoder if applicable. 
