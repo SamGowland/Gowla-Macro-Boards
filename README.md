@@ -143,6 +143,28 @@ When building take your time, and keep in mind not to block anything off before 
 - Solder the Pro micro to the pin headers. 
 - Solder RGB LEDs and rotary encoder if applicable. 
 
+## eRGB Firmware
+
+The firmware process for eRGB is a bit more involved at the moment, until it's no longer early access. 
+
+An example firmware is provided within [eRGB Folder](https://github.com/SamGowland/Gowla-Macro-Boards/tree/master/eRGB/Early%20Example%20Firmware).
+
+
+Please note, if you have a <b>white eRGB PCB</b> you will need to update your config.c further. The example will work with black eRGB boards. 
+
+White encoder and RGB pins sections instead should look like this. 
+
+```c
+/* RGB */
+#define RGB_DI_PIN B6
+
+...
+
+/* Rotary Encoder*/
+#define ENCODERS_PAD_A { B2 }
+#define ENCODERS_PAD_B { B3 }
+```
+
  ---
 
 # MEK-Light-RGB
