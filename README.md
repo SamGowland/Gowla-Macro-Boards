@@ -104,7 +104,7 @@ To further improve aesthetics an additional top plate is available to buy, top p
 Top plates require additional hardware, M2 hardware is inculuded when purchasing a Top Plate. 3mm spacers between the plate and the PCB. 8mm spacers and 8mm M2 machine screws. 
 
 <p align="center">
-  <img src="/Images/top plate.jpg" height="300">
+  <img src="/Images/top_plate.jpg" height="300">
 </p>
 
 
