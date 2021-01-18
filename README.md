@@ -152,7 +152,7 @@ An example firmware is provided within [eRGB Folder](https://github.com/SamGowla
 
 Please note, if you have a <b>white eRGB PCB</b> you will need to update your config.c further. The example will work with black eRGB boards. 
 
-White encoder and RGB pins sections instead should look like this. 
+White encoder and RGB pins should instead look like this. 
 
 ```c
 /* RGB */
