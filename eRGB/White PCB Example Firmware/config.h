@@ -41,6 +41,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define RGBLED_NUM 3
 #define RGBLIGHT_EFFECT_STATIC_LIGHT
 #define RGBLIGHT_EFFECT_RGB_TEST
+#define RGBLIGHT_EFFECT_RAINBOW_MOOD
+#define RGBLIGHT_EFFECT_KNIGHT
 #define RGBLIGHT_HUE_STEP 10
 #define RGBLIGHT_SAT_STEP 17
 #define RGBLIGHT_LIMIT_VAL 225
