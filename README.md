@@ -149,7 +149,7 @@ When building take your time, and keep in mind not to block anything off before 
 
 The firmware process for eRGB is a bit more involved at the moment, until it's no longer early access. 
 
-An example firmware is provided within [eRGB Folder](https://github.com/SamGowland/Gowla-Macro-Boards/tree/master/eRGB/Early%20Example%20Firmware).
+Example firmware is provided within [eRGB Folder](https://github.com/SamGowland/Gowla-Macro-Boards/tree/master/eRGB/).
 
 
 Please note, if you have a <b>white eRGB PCB</b> you will need to update your config.c further. The example will work with black eRGB boards. 
