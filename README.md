@@ -124,7 +124,7 @@ STL files are provided for the case design within this repository. However you w
 
 Designed to make RGB lighting as easy as possible and add support for an optional rotary encoder (Alps EC11)
 
-Early Prototypes on sale now through the [Variations eBay Page](http://www.ebay.co.uk/itm/164521787563)
+On sale now through the [Variations eBay Page](http://www.ebay.co.uk/itm/164521787563)
 
 <p align="center">
   <img src="/Images/eRGB.jpg" height="200">
