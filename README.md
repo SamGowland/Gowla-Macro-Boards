@@ -9,7 +9,7 @@
    
 <b> :heavy_check_mark: Available</b> <b>:x: Not Available</b>
 
-<i> For fully built macro keyboards with cases, please follow my [eBay store](https://www.ebay.co.uk/sch/gowla.2014/m.html?_trksid=p3692) as these will only be listed when I have parts available. </i>
+<i> For fully built macro keyboards with cases, follow my [eBay store](https://www.ebay.co.uk/sch/gowla.2014/m.html?_trksid=p3692) as these will only be listed when I have parts available. </i>
  
  ---
 
