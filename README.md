@@ -152,9 +152,9 @@ The firmware process for eRGB is a bit more involved at the moment, until it's n
 Example firmware is provided within [eRGB Folder](https://github.com/SamGowland/Gowla-Macro-Boards/tree/master/eRGB/).
 
 
-Please note, if you have a <b>white eRGB PCB</b> you will need to update your config.c further. The example will work with black eRGB boards. 
+Please note, the following lines differ in config.c for black and white PCBs, black eRGB are an older revision. 
 
-White encoder and RGB pins need be updated, surrounding code is not shown just update the 3 lines. 
+For white PCBs encoder and RGB pins should match this, surrounding code is not shown just update the 3 lines. 
 
 ```c
 /* RGB */
