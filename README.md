@@ -8,6 +8,8 @@
    - 12 Key editing keyboard with OLED screen, fader, two rotary encoders and underglow lighting. 
    
 <b> :heavy_check_mark: Available</b> <b>:x: Not Available</b>
+
+<i> For fully built macro boards including cases, please follow or check my [eBay store](https://www.ebay.co.uk/sch/gowla.2014/m.html?_trksid=p3692) as these will only be listed when I have parts available. </i>
  
  ---
 
