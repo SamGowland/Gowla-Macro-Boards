@@ -130,7 +130,7 @@ On sale now through the [Variations eBay Page](http://www.ebay.co.uk/itm/1645217
 
 <p align="center">
   <img src="/Images/eRGB2.jpg" height="200">
- <img src="/Images/RGB3.jpg" height="200">
+ <img src="/Images/RGB3.JPG" height="200">
   <img src="/Images/eRGB front.PNG" height="200">
 </p>
 
