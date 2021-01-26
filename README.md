@@ -129,8 +129,8 @@ Designed to make RGB lighting as easy as possible and add support for an optiona
 On sale now through the [Variations eBay Page](http://www.ebay.co.uk/itm/164521787563)
 
 <p align="center">
-  <img src="/Images/eRGB.jpg" height="200">
- <img src="/Images/RGB1.jpg" height="200">
+  <img src="/Images/eRGB2.jpg" height="200">
+ <img src="/Images/RGB3.JPG" height="200">
   <img src="/Images/eRGB front.PNG" height="200">
 </p>
 
