@@ -17,7 +17,6 @@
  <img src="/Images/eRGB2.jpg" height="200">
  <img src="/Images/boards.JPG" height="200">
  <img src="/Images/mek-l.PNG" height="200">
- <img src="/Images/pikey.PNG" height="200">
 </p>
 
  
