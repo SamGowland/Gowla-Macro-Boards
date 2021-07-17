@@ -6,6 +6,8 @@
    - 9 Key Macro Board with easy underglow RGB and Rotary Encoder support.
  - [MEK-Light-RGB](#MEK-Light-RGB) <b>:x:</b>
    - 12 Key editing keyboard with OLED screen, fader, two rotary encoders and underglow lighting. 
+ - [Gowla Keyboard-1](#Gowla-Keyboard-1) <b>:x:</b>
+   - 44 key Ortho Keyboard built around the Pi Pico with Encoders, Sliders and Glow. In the works. 
    
 <b> :heavy_check_mark: Available</b> <b>:x: Not Available</b>
 
