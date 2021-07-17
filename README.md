@@ -12,6 +12,14 @@
 <b> :heavy_check_mark: Available</b> <b>:x: Not Available</b>
 
 <i> For fully built macro keyboards with cases, follow my [eBay store](https://www.ebay.co.uk/sch/gowla.2014/m.html?_trksid=p3692) as these will only be listed when I have parts available. </i>
+
+<p align="center">
+ <img src="/Images/eRGB2.jpg" height="200">
+ <img src="/Images/boards.JPG" height="200">
+ <img src="/Images/mek-l.PNG" height="200">
+ <img src="/Images/pikey.PNG" height="200">
+</p>
+
  
  ---
 
