@@ -5,7 +5,7 @@
  - [Gowla-Macro-eRGB](#Gowla-Macro-eRGB) <b> :heavy_check_mark: </b>
    - 9 Key Macro Board with easy underglow RGB and Rotary Encoder support.
  - [MEK-Light-RGB](#MEK-Light-RGB) <b>:x:</b>
-   - 12 Key editing keyboard with OLED screen, fader, two rotary encoders and underglow lighting. 
+   - 12 Key editing keyboard with 60mm fader or 30mm + oled, two rotary encoders and underglow lighting. 
  - [Gowla Keyboard-1](#Gowla-Keyboard-1) <b>:x:</b>
    - 44 key Ortho Keyboard built around the Pi Pico with Encoders, Sliders and Glow. In the works. 
    
@@ -136,6 +136,8 @@ STL files are provided for the case design within this repository. However you w
 Designed to make RGB lighting as easy as possible and add support for an optional rotary encoder (Alps EC11)
 
 On sale now through the [Variations eBay Page](http://www.ebay.co.uk/itm/164521787563)
+
+eRGB is backwards compatible with V1 firmware, <b> you maybe recieve an eRGB board if you order pcb only </b>. These can be assembled as V1s or with the additional features. 
 
 <p align="center">
   <img src="/Images/eRGB2.jpg" height="200">
