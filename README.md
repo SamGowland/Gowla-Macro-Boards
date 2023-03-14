@@ -15,8 +15,8 @@
 
 <p align="center">
  <img src="/Images/eRGB2.jpg" height="200">
- <img src="/Images/boards.JPG" height="200">
- <img src="/Images/mek-l.PNG" height="200">
+ <img src="/Images/tape-lit.JPG" height="200">
+ <img src="/Images/purple.PNG" height="200">
 </p>
 
  
@@ -182,12 +182,24 @@ For white PCBs encoder and RGB pins should match this, surrounding code is not s
 
 # MEK-Light-RGB
 
-coming soon. 
+coming very soon. 
+
+[Demo Video](https://www.youtube.com/watch?v=-6GdU5GIuqY).
 
 <p align="center">
-  <img src="/Images/mek-l.PNG" height="400">
+  <img src="/Images/white.JPG" height="400">
 </p>
 
+## Kit Options
+
+- Build Kit 1: 
+  - Link: 
+  - Required Parts: 
+- Build Kit 2: 
+  - Link: 
+  - Required Parts: 
+
+## Build Guide
 
  ---
  
