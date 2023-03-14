@@ -4,7 +4,7 @@
    - 9 Key Macro board for MX style switches.
  - [Gowla-Macro-eRGB](#Gowla-Macro-eRGB) <b> :heavy_check_mark: </b>
    - 9 Key Macro Board with easy underglow RGB and Rotary Encoder support.
- - [MEK-Light-RGB](#MEK-Light-RGB) <b>:x:</b>
+ - [MEK-Light | Tapedeck - Soon to be available <b> March 2023 </b>](#MEK-Light-RGB) <b>:x:</b>
    - 12 Key editing keyboard with 60mm fader or 30mm + oled, two rotary encoders and underglow lighting. 
  - [Gowla Keyboard-1](#Gowla-Keyboard-1) <b>:x:</b>
    - 44 key Ortho Keyboard built around the Pi Pico with Encoders, Sliders and Glow. In the works. 
