@@ -194,10 +194,14 @@ coming very soon.
 
 - Build Kit 1: 
   - Link: 
-  - Required Parts: 
+  - Included Parts: PCB, Top Plate, Alps 60mm Dual Linear Pot, 3 x RGB LEDs, Diodes, 330R Resistor, M2 Assembly Hardware
+  - Required Parts: Pro Micro 5V, 2 x Alps EC11, MX Switches, Keycaps
+  - Picture:
 - Build Kit 2: 
   - Link: 
-  - Required Parts: 
+  - Included Parts: Kit 1, Bottom Case, 2 x Alps EC11
+  - Required Parts: Pro Micro 5V, MX Switches, Keycaps
+  - Picture: 
 
 ## Build Guide
 
