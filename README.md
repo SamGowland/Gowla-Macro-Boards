@@ -33,7 +33,7 @@ Version 1 PCB is where this project all started and is available to buy, it's fu
 
 ## Purchase
 
-To purchase a PCB for DIY assembly and to support this project please visit my [eBay Page](https://www.ebay.co.uk/itm/164290094737).
+To purchase a PCB for DIY assembly and to support this project please visit my [eBay Page](https://www.ebay.co.uk/sch/gowla.2014/).
 
 For additional options such as plates, hardware, RGB and more visit the <b>new!</b> multi variation page : [Variations eBay Page](http://www.ebay.co.uk/itm/164521787563)
 
