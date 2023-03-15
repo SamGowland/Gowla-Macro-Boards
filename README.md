@@ -11,7 +11,7 @@
    
 <b> :heavy_check_mark: Available</b> <b>:x: Not Available</b>
 
-<i> For fully built macro keyboards with cases, follow my [eBay store](https://www.ebay.co.uk/sch/gowla.2014/m.html?_trksid=p3692) as these will only be listed when I have parts available. </i>
+<i> For fully built macro keyboards with cases, follow my [eBay store](https://www.ebay.co.uk/usr/gowla.2014/) as these will only be listed when I have parts available. </i>
 
 <p align="center">
  <img src="/Images/eRGB2.jpg" height="200">
@@ -33,7 +33,7 @@ Version 1 PCB is where this project all started and is available to buy, it's fu
 
 ## Purchase
 
-To purchase a PCB for DIY assembly and to support this project please visit my [eBay Page](https://www.ebay.co.uk/sch/gowla.2014/).
+To purchase a PCB for DIY assembly and to support this project please visit my [eBay Page](https://www.ebay.co.uk/usr/gowla.2014/).
 
 For additional options such as plates, hardware, RGB and more visit the <b>new!</b> multi variation page : [Variations eBay Page](http://www.ebay.co.uk/itm/164521787563)
 
