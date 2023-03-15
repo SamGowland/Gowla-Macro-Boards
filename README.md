@@ -219,7 +219,7 @@ Note: Order of Assembly matters, don't start with switches.
 
 3. Solder your diode legs and cut the excess.
 
-4 Solder the 330 Ohm resistor marked on the backside. 
+4. Solder the 330 Ohm resistor marked on the backside. 
 
 5. Then solder in and/or socket your pro micro, you will at a minimum need the headers provided with most when ordered. Making sure the pro micro usb is pointing outwards away from PCB and on the underside of the PCB.
 
