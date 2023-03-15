@@ -205,6 +205,46 @@ coming very soon.
 
 ## Build Guide
 
+Straight forward but will require the use of a soldering iron, solder, wire cutters, time and maybe some tape for holding components. Before starting check you have all the required parts. 
+
+Note: Order of Assembly matters, don't start with switches. 
+
+<p align="center">
+  <img src="/Images/tape-kit.JPG" height="100">
+</p>
+
+1. Start by folding the legs of your 12 diodes, with approx 3mm of space either side of the diode in wire.
+
+2. Pull all diodes through the PCB holes, making sure the direction of the diode matches the image printed on the PCB. Note the direction of diodes is different for the two encoders.
+
+3. Solder your diode legs and cut the excess.
+
+4 Solder the 330 Ohm resistor marked on the backside. 
+
+5. Then solder in and/or socket your pro micro, you will at a minimum need the headers provided with most when ordered. Making sure the pro micro usb is pointing outwards away from PCB and on the underside of the PCB.
+
+6. Solder the Encoders to the PCB.
+
+7. Solder the 60MM fader to the PCB. 
+
+8. Grab your top plate, place the long M2 machine head screws through the plate and thread the 2mm spacer up to the top plate just like this image. 
+
+<p align="center">
+  <img src="/Images/white.JPG" height="100">
+</p>
+
+9. Attach your top plate to the PCB by threading the gold standoffs on the machine head screws going through both the top plate and PCB. 
+
+10. Push down your switches into the top plate, soldering the pins connected to the PCB. 
+
+11. Place your 3 x adhesive RGBs between the marked positions on the backside of the PCB, ensuring the match the correct direction (DI to DO) and solder between the pad and bridge. As shown here below. 
+
+<p align="center">
+  <img src="/Images/white.JPG" height="100">
+</p>
+
+12. Dress up with Keycaps and Knobs. Then Flash an example or custom firmware and play with your board! 
+
  ---
  
  ## Usage and EULA 
