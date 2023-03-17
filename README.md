@@ -228,7 +228,7 @@ Note: Order of Assembly matters, don't start with switches.
 8. Grab your top plate, place the long M2 machine head screws through the plate and thread the 2mm spacer up to the top plate just like this image. 
 
 <p align="center">
-  <img src="/Images/white.JPG" height="100">
+  <img src="/Images/tside.JPG" height="150">
 </p>
 
 9. Attach your top plate to the PCB by threading the gold standoffs on the machine head screws going through both the top plate and PCB. 
@@ -238,7 +238,7 @@ Note: Order of Assembly matters, don't start with switches.
 11. Place your 3 x adhesive RGBs between the marked positions on the backside of the PCB, ensuring the match the correct direction (DI to DO) and solder between the pad and bridge. As shown here below. 
 
 <p align="center">
-  <img src="/Images/white.JPG" height="100">
+  <img src="/Images/under.JPG" height="150">
 </p>
 
 12. Dress up with Keycaps and Knobs. Then Flash an example or custom firmware and play with your board! 
