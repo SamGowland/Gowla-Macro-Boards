@@ -227,11 +227,11 @@ Note: Order of Assembly matters, don't start with switches.
 
 8. Grab your top plate, place the long M2 machine head screws through the plate and thread the 2mm spacer up to the top plate just like this image. 
 
+9. Attach your top plate to the PCB by threading the gold standoffs on the machine head screws going through both the top plate and PCB. 
+
 <p align="center">
   <img src="/Images/tside.JPG" height="150">
 </p>
-
-9. Attach your top plate to the PCB by threading the gold standoffs on the machine head screws going through both the top plate and PCB. 
 
 10. Push down your switches into the top plate, soldering the pins connected to the PCB. 
 
