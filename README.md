@@ -15,7 +15,7 @@
 
 <p align="center">
  <img src="/Images/eRGB2.jpg" height="200">
- <img src="/Images/tape-lit.JPG" height="200">
+ <img src="/Images/tapedeck.JPG" height="200">
  <img src="/Images/purple.PNG" height="200">
 </p>
 
