@@ -187,7 +187,7 @@ coming very soon.
 [Demo Video](https://www.youtube.com/watch?v=-6GdU5GIuqY).
 
 <p align="center">
-  <img src="/Images/white.JPG" height="400">
+  <img src="/Images/tapedeck.JPG" height="400">
 </p>
 
 ## Kit Options
