@@ -211,7 +211,7 @@ Note: Order of Assembly matters, don't start with switches.
   <img src="/Images/tape-kit.JPG" height="100">
 </p>
 
-1. Start by folding the legs of your 12 diodes, with approx 3mm of space either side of the diode in wire.
+1. Start by folding the legs of your 14 diodes, with approx 3mm of space either side of the diode in wire.
 
 2. Pull all diodes through the PCB holes, making sure the direction of the diode matches the image printed on the PCB. Note the direction of diodes is different for the two encoders.
 
@@ -235,7 +235,7 @@ Note: Order of Assembly matters, don't start with switches.
 
 10. Push down your switches into the top plate, soldering the pins connected to the PCB. 
 
-11. Place your 3 x adhesive RGBs between the marked positions on the backside of the PCB, ensuring the match the correct direction (DI to DO) and solder between the pad and bridge. As shown here below. 
+11. Place your 3 x adhesive RGBs between the marked positions on the backside of the PCB, ensuring they match the correct direction (DI to DO) and solder between the pad and bridge. As shown here below. 
 
 <p align="center">
   <img src="/Images/under.JPG" height="150">
